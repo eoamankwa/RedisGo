@@ -1,4 +1,4 @@
 RedisGo
 =======
 
-A crud in Go
+A crud in Go and Redis
